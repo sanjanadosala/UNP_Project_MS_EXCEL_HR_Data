@@ -8,4 +8,4 @@ Key Highlights :
 3.Enhanced data visualization through charts and graphs to convey complex attrition insights in a clear and comprehensible manner.  
 4.Implemented interactive pivot tables for a dynamic exploration of HR data, allowing users to filter and analyze information based on specific criteria.   
 
-PDF Link : https://www.canva.com/design/DAF7zfdiflM/5SEPFR595sajShBlFY6VYA/edit?utm_content=DAF7zfdiflM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+PDF Link : https://drive.google.com/file/d/11IwTVuXFLMmc_yVdi4RV5y08U5cEXgg0/view?usp=sharing
